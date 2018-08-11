@@ -22,7 +22,7 @@ public class NetworkUtils {
 
     final static String IMAGE_BASE_URL = "http://image.tmdb.org/t/p";
 
-    final static String API_KEY = "810d9df37e3d3da3feba7cd60b873bc1";
+    final static String API_KEY = "Your Key";
 
     final static String PARAM_KEY = "api_key";
 
