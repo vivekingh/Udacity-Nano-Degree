@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular-Movies</string>
+
+    <string name="sortByKey">SORT_BY_KEY</string>
+
+    <string name="sortBy">popular</string>
+
+    <string name="sort_method_popular">popular</string>
+    <string name="sort_method_highrated">top_rated</string>
+
+    <string name="transferred_movie_detail">MovieDetails</string>
+    <string name="already_loaded_movie">AlreadyLoadedMovies</string>
+
+    <string name="message_onclick_popular">Movies are already sorted by popularity.</string>
+    <string name="message_onclick_top_rated">Movies are already sorted by high rating.</string>
+
+
+
+</resources>
